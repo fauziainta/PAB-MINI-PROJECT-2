@@ -92,21 +92,21 @@ Aplikasi menggunakan file `.env` untuk menyimpan:
 
 2. Register Page
 
-![image alt](assets/screenshots/register.png)
+![image alt](https://github.com/fauziainta/PAB-MINI-PROJECT-2/blob/1491bec12229eaa0955a52304e204726c868b7f3/Screenshot%202026-03-16%20131644.png)
 
 3. Home Page
 
-![image alt](assets/screenshots/home.png)
+![image alt](https://github.com/fauziainta/PAB-MINI-PROJECT-2/blob/1491bec12229eaa0955a52304e204726c868b7f3/Screenshot%202026-03-16%20131714.png)
 
 4. Form Page
 
-![image alt](assets/screenshots/form.png)
+![image alt](https://github.com/fauziainta/PAB-MINI-PROJECT-2/blob/1491bec12229eaa0955a52304e204726c868b7f3/Screenshot%202026-03-16%20131735.png)
 
   - Terdapat dropdown pilihan Jenis Layanan
 
-    ![image alt](assets/screenshots/form.png)
+    ![image alt](https://github.com/fauziainta/PAB-MINI-PROJECT-2/blob/1491bec12229eaa0955a52304e204726c868b7f3/Screenshot%202026-03-16%20131759.png)
 
 6. Dark Mode
 
-![image alt](assets/screenshots/form.png)
+![image alt](https://github.com/fauziainta/PAB-MINI-PROJECT-2/blob/1491bec12229eaa0955a52304e204726c868b7f3/Screenshot%202026-03-16%20131819.png)
 
